@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/GoIT-Team-03-React-Frontend/',
+  base: '/fs-83-react-node-NEYROSICK/',
 });
