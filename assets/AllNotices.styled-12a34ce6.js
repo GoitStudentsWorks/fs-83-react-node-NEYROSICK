@@ -1,4 +1,4 @@
-import{s as i}from"./index-ad3e539c.js";const o="min-width: 768px",t="min-width: 1280px",e=i.h2`
+import{s as i}from"./index-b61a798e.js";const o="min-width: 768px",t="min-width: 1280px",e=i.h2`
   font-size: 24px;
   color: #000;
 
