@@ -13,7 +13,7 @@ import './fonts/manrope-v15-latin-800.woff2';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/GoIT-Team-03-React-Frontend">
+    <BrowserRouter basename="/fs-83-react-node-NEYROSICK">
       <Provider store={store}>
         <App />
       </Provider>
